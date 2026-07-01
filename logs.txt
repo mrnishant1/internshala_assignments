@@ -1,0 +1,19 @@
+Projects/binance_cli$ python3 index.py
+Trading Symbol: BTCUSDT
+BUY or SELL: SELL
+MARKET or LIMIT: MARKET
+Asset Quantity0.01
+
+response:
+{'orderId': 18234158988, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'eix8nXkHPFdfYRYZoVhYox', 'price': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782908561126}
+
+
+
+rading Symbol: BTCUSDT
+BUY or SELL: SELL
+MARKET or LIMIT: MARKET
+Asset Quantity0.01
+
+
+response:
+{'orderId': 18234158988, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'eix8nXkHPFdfYRYZoVhYox', 'price': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1782908561126}
